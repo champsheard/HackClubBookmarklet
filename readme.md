@@ -1,4 +1,4 @@
-# HackClub Bookmarklet
+# InstaChat Bookmarklet
 
 This project is a JavaScript bookmarklet that enables users to interact with a chatbot powered by Cohere's API. The chatbot provides helpful responses based on user prompts.
 
